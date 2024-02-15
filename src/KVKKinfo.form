@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="cc" red="0" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-99,0,0,1,-112"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OKUDUM, ONAYLIYORUM"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="110" y="380" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="30" width="388" height="160"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Constantia" size="10" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="AYDINLATMA METN&#x130; &#xa;&#xa;Say&#x131;n M&#xfc;&#x15f;terimiz,  &#xa;Kaps&#xfc;l Bank m&#xfc;&#x15f;terileri olarak, sizin g&#xfc;venli&#x11f;iniz ve gizlili&#x11f;iniz bizim i&#xe7;in son derece &#xf6;nemlidir.&#xa;Bu nedenle, bankam&#x131;z olarak ki&#x15f;isel verilerinizin korunmas&#x131; konusunda hassas davranmaktay&#x131;z. &#xa;Ki&#x15f;isel verileriniz; ad&#x131;n&#x131;z, soyad&#x131;n&#x131;z, ikamet adresiniz, cep telefon numaran&#x131;z, TC Kimlik Numaran&#x131;z, cinsiyetiniz ve e posta adresiniz bilgilerinizi kapsamaktad&#x131;r. &#xa;Bu bilgiler, yaln&#x131;zca bankam&#x131;z taraf&#x131;ndan sizinle ilgili hizmetlerin sunulmas&#x131; amac&#x131;yla kullan&#x131;lmakta ve gerekti&#x11f;i durumlarda yasal y&#xfc;k&#xfc;ml&#xfc;l&#xfc;klerimiz kapsam&#x131;nda ilgili resmi mercilere iletilmektedir.&#xa;Bankam&#x131;z, ki&#x15f;isel verilerinizin g&#xfc;venli&#x11f;i konusunda gerekli t&#xfc;m teknik ve idari tedbirleri almaktad&#x131;r.&#xa;Bu kapsamda, verilerinizin yetkisiz eri&#x15f;im, de&#x11f;i&#x15f;tirme, if&#x15f;a veya kay&#x131;p risklerine kar&#x15f;&#x131; korunmas&#x131; i&#xe7;in ilgili sistemlerimizi g&#xfc;ncellemekteyiz.&#xa;Ayr&#x131;ca, ki&#x15f;isel verilerinizin i&#x15f;lenmesi hakk&#x131;nda daha detayl&#x131; bilgi i&#xe7;in Bankam&#x131;z&#x131;n &quot;Ki&#x15f;isel Verilerin Korunmas&#x131; Politikas&#x131;&quot;n&#x131; inceleyebilirsiniz.  &#xa;Sizlerle olan ili&#x15f;kimizde ki&#x15f;isel verilerinizi koruma ve gizlilik konular&#x131;nda g&#xf6;sterdi&#x11f;imiz hassasiyet, bankam&#x131;z&#x131;n en temel de&#x11f;erlerinden biridir. &#xa;Her t&#xfc;rl&#xfc; talep ve &#xf6;nerileriniz i&#xe7;in a&#x15f;a&#x11f;&#x131;daki kanallar arac&#x131;l&#x131;&#x11f;&#x131;yla m&#xfc;&#x15f;teri hizmetleri temsilcilerimizle ileti&#x15f;ime ge&#xe7;ebilirsiniz.  &#xa;E-posta: destek@kapsulbank.com  Telefon: 0212 333 0011  &#xa;Sayg&#x131;lar&#x131;m&#x131;zla, KAPS&#xdc;L BANK"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="200" width="388" height="170"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Constantia" size="10" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="K&#x130;&#x15e;&#x130;SEL VER&#x130;LER&#x130; KORUMA POL&#x130;T&#x130;KASI&#xa;&#xa;Say&#x131;n M&#xfc;&#x15f;terimiz,&#xa;&#xa;Kaps&#xfc;l Bank m&#xfc;&#x15f;terileri olarak, sizin g&#xfc;venli&#x11f;iniz ve gizlili&#x11f;iniz bizim i&#xe7;in son derece &#xf6;nemlidir. Bu nedenle, bankam&#x131;z olarak ki&#x15f;isel verilerinizin korunmas&#x131; konusunda hassas davranmaktay&#x131;z.&#xa;&#xa;Ki&#x15f;isel Verilerin Korunmas&#x131; Kanunu (&quot;KVKK&quot;) kapsam&#x131;nda bankam&#x131;z; veri sorumlusu olarak, ki&#x15f;isel verilerinizin i&#x15f;lenmesi, saklanmas&#x131; ve korunmas&#x131; hususunda t&#xfc;m yasal y&#xfc;k&#xfc;ml&#xfc;l&#xfc;klerine tam uyum g&#xf6;stermektedir.&#xa;&#xa;Ki&#x15f;isel Verilerin Toplanmas&#x131;:&#xa;Bankam&#x131;z, hizmetlerimizi sunmak ve yasal y&#xfc;k&#xfc;ml&#xfc;l&#xfc;klerini yerine getirmek i&#xe7;in belirli ki&#x15f;isel verilerinizi toplamaktad&#x131;r. Bu veriler aras&#x131;nda isim, soyisim, adres, TC kimlik numaras&#x131;, telefon numaras&#x131;, e-posta adresi, do&#x11f;um tarihi, meslek ve benzeri bilgiler bulunabilir.&#xa;&#xa;Ki&#x15f;isel Verilerin &#x130;&#x15f;lenmesi:&#xa;Bankam&#x131;z, ki&#x15f;isel verilerinizi yaln&#x131;zca belirli ama&#xe7;lar do&#x11f;rultusunda i&#x15f;lemektedir. Bu ama&#xe7;lar aras&#x131;nda; hizmetlerimizin sunulmas&#x131;, talep ve &#x15f;ikayetlerin y&#xf6;netimi, yasal y&#xfc;k&#xfc;ml&#xfc;l&#xfc;klerin yerine getirilmesi ve hizmetlerimizin geli&#x15f;tirilmesi bulunmaktad&#x131;r.&#xa;&#xa;Ki&#x15f;isel Verilerin Saklanmas&#x131; ve G&#xfc;venli&#x11f;i:&#xa;Ki&#x15f;isel verilerinizi g&#xfc;venli bir &#x15f;ekilde saklanmakta ve yetkisiz eri&#x15f;ime kar&#x15f;&#x131; korumak i&#xe7;in gerekli t&#xfc;m teknik ve idari tedbirleri al&#x131;nmaktad&#x131;r. Verileriniz, yaln&#x131;zca ilgili personeller taraf&#x131;ndan belirli yetkilendirmeler do&#x11f;rultusunda eri&#x15f;ilebilir. Ayr&#x131;ca, herhangi bir veri ihlali durumunda gerekli &#xf6;nlemler s&#xfc;ratle al&#x131;nacakt&#x131;r.&#xa;&#xa;Ki&#x15f;isel Verilerin Payla&#x15f;&#x131;m&#x131;:&#xa;Bankam&#x131;z, ki&#x15f;isel verilerinizi sadece yasal zorunluluklar veya belirli durumlarda hizmetlerimizin sunulmas&#x131; i&#xe7;in gerekli olan &#xfc;&#xe7;&#xfc;nc&#xfc; taraflarla payla&#x15f;maktad&#x131;r. Bu &#xfc;&#xe7;&#xfc;nc&#xfc; taraflar, KVKK kapsam&#x131;nda yeterli g&#xfc;venlik &#xf6;nlemlerini alm&#x131;&#x15f; olan, s&#xf6;zle&#x15f;meyle belirtilen veya yasal zorunluluklar&#x131; yerine getiren kurumlar olacakt&#x131;r.&#xa;&#xa;Ki&#x15f;isel Verilerin Silinmesi:&#xa;Bankam&#x131;z, ki&#x15f;isel verilerinizi belirli bir s&#xfc;re saklayacak ve sonras&#x131;nda silme i&#x15f;lemi ger&#xe7;ekle&#x15f;tirecektir. Bu s&#xfc;reler, yasal y&#xfc;k&#xfc;ml&#xfc;l&#xfc;kler, i&#x15f;lem s&#xfc;re&#xe7;leri ve hizmetlerin sunulmas&#x131; i&#xe7;in gerekli olan s&#xfc;reler do&#x11f;rultusunda belirlenmektedir. Bu s&#xfc;relerin dolmas&#x131;yla birlikte, verileriniz silinecek ve art&#x131;k kullan&#x131;lmayacakt&#x131;r.&#xa;&#xa;Ki&#x15f;isel Verilerin G&#xfc;ncellenmesi:&#xa;Bankam&#x131;z, ki&#x15f;isel verilerinizin do&#x11f;ru ve g&#xfc;ncel olmas&#x131;n&#x131; sa&#x11f;lamak i&#xe7;in her t&#xfc;rl&#xfc; &#xe7;abay&#x131; g&#xf6;stermektedir. Bu nedenle, ki&#x15f;isel verilerinizde herhangi bir de&#x11f;i&#x15f;iklik oldu&#x11f;unda, l&#xfc;tfen bize bildirin. B&#xf6;ylece, verileriniz g&#xfc;ncellenerek do&#x11f;ru ve g&#xfc;ncel halde saklanm&#x131;&#x15f; olacakt&#x131;r.&#xa;&#xa;Ki&#x15f;isel Verilerin &#x130;lgili Ki&#x15f;inin Talebi Do&#x11f;rultusunda &#x130;&#x15f;lenmesi:&#xa;KVKK kapsam&#x131;nda, ilgili ki&#x15f;iler, ki&#x15f;isel verilerinin i&#x15f;lenmesiyle ilgili baz&#x131; haklara sahiptirler. Bu haklar aras&#x131;nda; ki&#x15f;isel verilerin silinmesi, d&#xfc;zeltilmesi, i&#x15f;lenmesinin durdurulmas&#x131;, verilerin aktar&#x131;labilirli&#x11f;i ve benzeri haklar bulunmaktad&#x131;r. Bu haklar&#x131;n&#x131;z&#x131;n kullan&#x131;m&#x131; i&#xe7;in, bizimle ileti&#x15f;ime ge&#xe7;ebilirsiniz.&#xa;&#xa;&#x130;leti&#x15f;im Bilgileri:&#xa;Bankam&#x131;z&#x131;n Ki&#x15f;isel Verilerin Korunmas&#x131; Politikas&#x131; hakk&#x131;nda daha fazla bilgi almak veya ki&#x15f;isel verilerinizle ilgili sorular&#x131;n&#x131;z i&#xe7;in, a&#x15f;a&#x11f;&#x131;daki ileti&#x15f;im kanallar&#x131;n&#x131; kullanabilirsiniz:&#xa;&#xa;Adres: Y&#x131;ld&#x131;z Teknik &#xdc;niversitesi Elektrik Elektronik Fak&#xfc;ltesi Bilgisayar M&#xfc;hendisli&#x11f;i B&#xf6;l&#xfc;m&#xfc; D Blok&#xa;Davutpa&#x15f;a Mah. Davutpa&#x15f;a Caddesi 34220 Esenler/&#x130;stanbul T&#xdc;RK&#x130;YE&#xa;&#xa;E-posta: destek@kapsulbank.com&#xa;&#xa;Telefon: 0212 333 0011&#xa;&#xa;Sayg&#x131;lar&#x131;m&#x131;zla,&#xa;KAPS&#xdc;L BANK"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="B&#x130;LG&#x130;LEND&#x130;RME METN&#x130; "/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="130" y="10" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="background">
+      <Properties>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="33" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/img/pastel-clouds-presentation-background-slides.jpg"/>
+        </Property>
+        <Property name="autoscrolls" type="boolean" value="true"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="-22" y="-20" width="420" height="430"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
